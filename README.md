@@ -196,7 +196,7 @@ If you use HIT in your research, please cite:
 
 **Associated manuscript:**
 
-> Akbal Z, Yadygina A, Remde C, Blumenthal J, Pratschke J, Sauer IM and Queisner M (2026) Haptic Interaction Toolkit: a mixed reality-based robotic console for experimental investigation of haptic feedback in robotic-assisted surgery. Front. Virtual Real. 7:1830167. doi: 10.3389/frvir.2026.1830167
+> Akbal Z, Yadygina A, Remde C, Blumenthal J, Pratschke J, Sauer IM and Queisner M (2026) Haptic Interaction Toolkit: a mixed reality-based robotic console for experimental investigation of haptic feedback in robotic-assisted surgery. Front. Virtual Real. 7:1830167. [doi: 10.3389/frvir.2026.1830167](https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2026.1830167/full#cite)
 
 **Related publications:**
 
