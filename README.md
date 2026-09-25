@@ -194,9 +194,9 @@ These logging routines can be extended to capture additional measures (task time
 
 If you use HIT in your research, please cite:
 
-**Associated manuscript (in review):**
+**Associated manuscript:**
 
-> Akbal Z, Yadygina A, Remde C, Blumenthal J, Pratschke J, Sauer IM, Queisner M. *Haptic Interaction Toolkit*: A Mixed Reality-Based Robotic Console for Experimental Investigation of Haptic Feedback in Robotic-Assisted Surgery. Frontiers in Virtual Reality (in review).
+> Akbal Z, Yadygina A, Remde C, Blumenthal J, Pratschke J, Sauer IM and Queisner M (2026) Haptic Interaction Toolkit: a mixed reality-based robotic console for experimental investigation of haptic feedback in robotic-assisted surgery. Front. Virtual Real. 7:1830167. doi: 10.3389/frvir.2026.1830167
 
 **Related publications:**
 
