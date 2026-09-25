@@ -202,7 +202,7 @@ If you use HIT in your research, please cite:
 
 > Akbal Z, Daneshgar A, Morgül MH, Moosburner S, Pratschke J, Sauer IM, Queisner M (2025). Exploring the Need for Haptic Feedback and Improved Communication in Robotic-Assisted Surgery: A Surgeon-Centered Survey. *IEEE Access* 13: 197889–197898. [doi:10.1109/ACCESS.2025.3633553](https://doi.org/10.1109/ACCESS.2025.3633553)
 
-> Akbal Z, Sauer I, Yadygina A, Remde C, Blumenthal J, Queisner M (2026). Haptic Interaction Toolkit for Robotic-Assisted Surgery. In: *International XR-Metaverse Conference 2025*. Springer Nature, Chapter 32, pp. 230–243. eBook ISBN 978-3-032-11983-4. [Book info](https://link.springer.com/book/9783032119827#bibliographic-information)
+> Akbal Z, Sauer I, Yadygina A, Remde C, Blumenthal J, Queisner M (2026). Haptic Interaction Toolkit for Robotic-Assisted Surgery. In: *International XR-Metaverse Conference 2025*. Springer Nature, Chapter 32, pp. 230–243. eBook ISBN 978-3-032-11983-4. [[Book info](https://link.springer.com/book/9783032119827#bibliographic-information](https://link.springer.com/chapter/10.1007/978-3-032-11983-4_32))
 
 ---
 
